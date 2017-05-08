@@ -67,7 +67,7 @@ public class MyView extends View {
         linePaint.setStrokeWidth(2);
 
         int imageY = getMeasuredHeight() - 5 - image.getHeight() - (int) textPaint.measureText("asdad");
-
+        //测试做了一修改
     }
 
     /**
